@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/loginAndRegister.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="loginjquery.js"></script>
+  <title>Login</title>
+</head>
+<body>
+    <section class="container-fluid bg">
+        <section class="row justify-content-center">
+            <section class="col-12 col-sm-6 col-md-3">
+                <form class="form-container" method="POST" action="registered.php">
+                    <div class="form-group">
+                        <label>Name</label>
+                        <input type="text" class="form-control" id="nameuser" name="nameuser" placeholder="Example Name" maxlength="15" required/>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input type="email" class="form-control" id="emailuser" name="emailuser" placeholder="ExampleEmail@gmail.com" required/>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <label>Password</label>
+                        <input type="password" class="form-control" id="password" name="password" placeholder="******" maxlength="15" required/>
+                    </div>
+                    <br />
+                    <button type="submit" class="btn btn-primary btm-block" id="buttonRegistro">Regist</button>
+                    <br />
+                    <br />
+                    <a href="login.html">I have account!!</a>
+                </form>
+            </section>
+        </section>
+    </section>
+</body>
+</html>

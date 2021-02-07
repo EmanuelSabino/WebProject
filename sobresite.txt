@@ -1,0 +1,15 @@
+Neste site a pagina principal é o login.html. É necessário ter uma conta se não tem que se registar. Depois vai entrar na pagina principal onde vão aparecer 6 jogos aleatorios (
+    imagem, nome jogo e descrição), depois se carregar no "Five Random Games" aparecem outros jogos aleatorios (podera aparecer os mesmos muitas vezes porque no ficheiro json não 
+    tem muitas informações). Depois pode carregar no nome do jogo e aí podemos ver o jogo mais detalhado (preço, lançamento, ect), e poderá comentar e ver comentarios de outras pessoas.
+    Depois por fim temos o "search Games", no menu, que é onde podemos pesquisar os jogos (não é preciso escrever o nome completo ao começar a escrever vão logo ser apresentados 
+    resultados, caso o haja).
+
+    Depois no site existem algumas interações, por exemplo no login/resgistro não da para carregar no botao enquanto não preencher os campos todos.
+    Na pagina principal ao por o rato por cima da imagem ela aumenta, e em cima da descrição o texto fica justificado e tirando fica centrado, e ao colocar o rato em cima do 
+    titulo "five Random Games" o titulo muda de cor aleatoria.
+
+    Depois nos detalhes, se carregar na imagem aparece a descrição e desaparece a imagem e se fizer outra vez mas na descrição, desaparece a descrição e aparece a imagem. Ainda 
+    nessa pagina se passar o rato por cima do preço aparece um novo paragrafo, e se o tirar desaparece o paragrafo.
+
+
+    O site é responsivo

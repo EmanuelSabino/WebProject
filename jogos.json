@@ -1,0 +1,92 @@
+[
+    {
+        "Name" : "Grand Theft Auto V",
+        "Description" : "Quando um malandro de rua, um ladrão de bancos aposentado e um psicopata aterrorizante se veem encrencados, eles precisam realizar uma série de golpes ousados para sobreviver em uma cidade onde não podem confiar em ninguém, nem mesmo um no outro.",
+        "Price" : "30€",
+        "Platform" : "Playstation 3, Playstation 4, Playstation 5, Xbox 360, Xbox One, Xbox Series X, Microsoft Windows",
+        "Image" : "/TrabalhoFinalWeb/img/games/GTAV.png",
+        "Lancamento" : "17 de setembro de 2013",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/PEGI18.png"
+    },
+    {
+        "Name" : "Need For Speed Heat",
+        "Description" : "Um jogo de corrida emocionante que coloca você contra a polícia corrupta de uma cidade enquanto luta para fazer parte da elite das corridas de rua.",
+        "Price" : "69.89€",
+        "Platform" : "Xbox one, Playstation 4, Microsoft Windows",
+        "Image" : "/TrabalhoFinalWeb/img/games/needforspeedheat.jpg",
+        "Lancamento" : "8 de novembro de 2019",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/pegi16.jpg"
+    },
+    {
+        "Name" : "Red Dead Redemption 2",
+        "Description" : "Embarca no mundo dinâmico e em constante crescimento de Red Dead Online e vive nos limites do território americano. \nEnfrenta a autoridade, gangues e vorazes animais selvagens para iniciares a vida na fronteira americana. Constrói um acampamento e, sozinho ou com o teu bando, explora cada canto do mapa, desde as montanhas nevadas a norte aos pântanos a sul, desde os postos abandonados às quintas frenéticas e cidades agitadas. Controla as recompensas, a caça, a pesca e o comércio, procura criaturas exóticas, gere a tua própria destilaria ilegal de Moonshine, ou torna-te um Naturalist para descobrires os segredos do reino animal, e muito mais, num mundo surpreendentemente imenso e detalhado. Acompanha milhões de outros jogadores numa aventura pelo faroeste e desfruta de um mundo repleto de novas caraterísticas, jogabilidade e otimizações adicionais.Inclui Red Dead Online.",
+        "Price" : "19.90€",
+        "Platform" : "PlayStation 4, Xbox One, Google Stadia, Microsoft Windows",
+        "Image" : "/TrabalhoFinalWeb/img/games/reddead2.jpg",
+        "Lancamento" : "26 de outubro de 2018",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/PEGI18.png"
+    },
+    {
+        "Name" : "Fifa 20",
+        "Description" : "Com a tecnologia Frostbite™, o EA SPORTS™ FIFA 20 para PC te leva aos dois lados do melhor jogo do mundo: o prestígio dos gramados profissionais e uma nova experiência do futebol de rua com o EA SPORTS FUTEBOL VOLTA. O FIFA 20 inova em todos os aspectos do jogo: com a FOOTBALL INTELLIGENCE, você tem acesso a uma plataforma de jogo com um realismo inigualável; com o FIFA Ultimate Team™, você ganha mais formas de montar o time dos seus sonhos; e com o EA SPORTS FUTEBOL VOLTA, você retorna às quadras com o autêntico futebol de rua.",
+        "Price" : "18.90€",
+        "Platform" : "PlayStation 4, Xbox One, Nintendo Switch, Microsoft Windows",
+        "Image" : "/TrabalhoFinalWeb/img/games/fifa20.png",
+        "Lancamento" : "24 de setembro de 2019",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/pegi3.png"
+    },
+    {
+        "Name" : "Uncharted 4",
+        "Description" : "Vários anos após sua última aventura, o aposentado caçador de tesouros, Nathan Drake, é forçado a voltar para o mundo dos ladrões. Com riscos muito mais pessoais, Drake embarca em uma jornada pelo mundo em busca de uma conspiração histórica por trás de um famoso tesouro pirata. Sua maior aventura testará seus limites físicos, sua determinação e, finalmente, o que ele está disposto a sacrificar para salvar quem ama. Os recursos online poderão ser encerrados a qualquer momento.",
+        "Price" : "45.90€",
+        "Platform" : "PlayStation 4",
+        "Image" : "/TrabalhoFinalWeb/img/games/uncharted4.jpg",
+        "Lancamento" : "10 de maio de 2016",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/pegi16.jpg"
+    },
+    {
+        "Name" : "Uncharted 3",
+        "Description" : "UMA VIAGEM ÉPICA. Parte à aventura com o Nathan Drake. É o regresso do intrépido caçador de fortunas, que desta vez vai em busca da mítica Atlântida das Areias. Viaja desde as duras ruas de Londres à Península Arábica e supera perigos extremos, bem como novos e ameaçadores inimigos, para conseguires sobreviver. Vive o terceiro episódio da aclamada série de ação e aventura que veio redefinir o género.",
+        "Price" : "19.90€",
+        "Platform" : "PlayStation 4, Playstation 3",
+        "Image" : "/TrabalhoFinalWeb/img/games/uncharted3.jpg",
+        "Lancamento" : "10 de maio de 2016",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/pegi16.jpg"
+    },
+    {
+        "Name" : "The Last Of Us II",
+        "Description" : "Cinco anos depois...\nApós uma viagem mortífera pelos EUA pós-pandémicos, Ellie e Joel assentam em Wyoming.\nA vida numa comunidade próspera dá-lhes estabilidade, apesar da ameaça dos infetados e dos sobreviventes em desespero.\nQuando um evento violento perturba essa paz, Ellie parte numa viagem incansável em busca de justiça. Ao perseguir os responsáveis, ela é confrontada com as repercussões devastadoras, tanto a nível físico como psicológico, das suas ações.",
+        "Price" : "59.87€",
+        "Platform" : "Playstation 4, Playstation 5",
+        "Image" : "/TrabalhoFinalWeb/img/games/thelastofusii.png",
+        "Lancamento" : "19 de junho de 2020",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/PEGI18.png"
+    },
+    {
+        "Name" : "Mafia II",
+        "Description" : "O herói de guerra Vito Scaletta envolve-se com a máfia para tentar pagar as dívidas do seu pai. Vito trabalha para provar o seu valor e sobe na hierarquia da família com crimes cada vez mais vistosos.",
+        "Price" : "29.99€",
+        "Platform" : "PlayStation 4, PlayStation 3, Xbox One, Xbox 360, Microsoft Windows, Mac OS Classic",
+        "Image" : "/TrabalhoFinalWeb/img/games/mafiaii.jpg",
+        "Lancamento" : "23 de agosto de 2010",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/PEGI18.png"
+    },
+    {
+        "Name" : "Mafia I",
+        "Description" : "Estamos em 1930. Após um contacto inadvertido com a Máfia, o taxista Tommy Angelo entra de forma relutante no mundo do crime organizado. De início, ele hesita em envolver-se com a família Salieri, mas em breve torna-se impossível ignorar as recompensas. Conforme sobe na hierarquia, os trabalhos tornam-se cada vez mais lucrativos, mas também mais sujos. Tommy poderá conquistar o respeito dos Salieris, mas ao tornar-se um mafioso irá dar por si em conflito com a nova vida que escolheu.",
+        "Price" : "19.99€",
+        "Platform" : "PlayStation 4, PlayStation 3, Xbox One, Xbox 360, Microsoft Windows, Mac OS Classic",
+        "Image" : "/TrabalhoFinalWeb/img/games/mafiai.jpg",
+        "Lancamento" : "28 de agosto de 2002",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/PEGI18.png"
+    },
+    {
+        "Name" : "Mafia III",
+        "Description" : "1968. New Bordeaux.\nApós vários anos de combate no Vietname, Lincoln Clay sabe uma verdade: a família não é aquela com quem nascemos, é aquela por quem morremos. Quando a sua família adotiva, a máfia negra, é traída e eliminada pela Máfia italiana, Lincoln cria uma nova família a partir das cinzas da antiga e passa a trilhar um caminho de vingança e redenção atrás do mafioso responsável.",
+        "Price" : "49.99€",
+        "Platform" : "PlayStation 4, PlayStation 3, Xbox One, Xbox 360, Microsoft Windows, Mac OS Classic",
+        "Image" : "/TrabalhoFinalWeb/img/games/mafiaiii.jpg",
+        "Lancamento" : "7 de outubro de 2016",
+        "Pegi" : "/TrabalhoFinalWeb/img/pegi/PEGI18.png"
+    }
+]
